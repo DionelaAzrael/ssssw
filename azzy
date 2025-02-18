@@ -448,7 +448,7 @@ local Disable = Instance.new("BindableEvent")
 getgenv().configs = {
     connections = {},
     Disable = Disable,
-    Size = Vector3.new(250,250,250),
+    Size = Vector3.new(1250,1250,1250),
     DeathCheck = false
 }
 
